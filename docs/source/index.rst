@@ -3,9 +3,14 @@
 Moodle Proctoring Plugin User Guide
 ====================================
 
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
 
    summary
    overview
