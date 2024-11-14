@@ -1,15 +1,17 @@
-Welcome to Yogesh's documentation!
-===================================
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRpL-zI_hT4_fO0Ut_Z99XaLsy1znL4hzYYO6w442RpXlqFEBqvEYb2N78BBy722S1YITq_l9L1SKlo/pub?embedded=true"></iframe>
+.. Moodle Proctoring Plugin Documentation
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Moodle Proctoring Plugin User Guide
+====================================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
-   usage
-   api
+   summary
+   overview
+   requirements
+   setup
+   permissions
+   user_experience
+   data_privacy
+   faq_troubleshooting
