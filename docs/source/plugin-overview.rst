@@ -1,7 +1,4 @@
-Summery 
-===
+Plugin Overview
+===============
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+This section explains the functionality of the Moodle Proctoring Plugin.
