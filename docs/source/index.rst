@@ -1,6 +1,7 @@
 Moodle Proctoring Plugin - User Guide
 ====================================
 Hello
+
 .. note::
 
    This project is under active development.
