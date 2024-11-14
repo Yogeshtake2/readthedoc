@@ -1,23 +1,15 @@
-.. Moodle Proctoring Plugin Documentation
-
-Moodle Proctoring Plugin User Guide
+Moodle Proctoring Plugin - User Guide
 ====================================
-
+Hello
 .. note::
 
    This project is under active development.
 
-Contents
---------
+
 
 .. toctree::
-..hello
-hii
-   summary
-   overview
-   requirements
-   setup
-   permissions
-   user_experience
-   data_privacy
-   faq_troubleshooting
+   :maxdepth: 2
+   :caption: Contents:
+
+   plugin-overview
+   system-requirements
