@@ -1,12 +1,10 @@
 7.FAQs And Troubleshooting
 ====================================
 
-  FAQs
-====
 
 1. **Where can I get the Take2 Proctoring API key and Secret key?**
 
-   Please refer to the ‘Usage Accessibility’ section in the Plugin Documentation or contact us at - `ms@taketwotechnologies.com`.
+   Please refer to the Usage Accessibility section in the [Plugin Documentation](https://taketwotechnologies.com/proctoring-quiz-access-rule/) or contact us at [ms@taketwotechnologies.com](mailto:ms@taketwotechnologies.com).
 
 2. **I do not have an AWS account, can I access this plugin?**
 
@@ -23,16 +21,16 @@
 
 4. **Where can I get the AWS API key and Secret key?**
 
-   Please refer to the ‘Usage Accessibility’ section in the Plugin Documentation to generate AWS keys from your AWS account.
+   Please refer to the Usage Accessibility section in the [Plugin Documentation](https://taketwotechnologies.com/proctoring-quiz-access-rule/) to generate AWS keys from your AWS account.
 
 5. **How can I add the AWS API key and Secret Key in Moodle™?**
 
-   Go through the ‘Proctoring plugin configuration’ section in the Plugin Documentation.
+   Go through the Proctoring plugin configuration section in the [Plugin Documentation](https://taketwotechnologies.com/proctoring-quiz-access-rule/).
 
 6. **As an admin, why am I getting the warning ‘Please complete AWS configuration to continue with the quiz?’**
 
    Check whether the ‘AWS access and Secret keys’ are set up in the ‘Moodle Proctoring’. 
-   Refer to the ‘Proctoring plugin configuration’ section in the Plugin Documentation.
+   Refer to the Proctoring plugin configuration section in the [Plugin Documentation](https://taketwotechnologies.com/proctoring-quiz-access-rule/).
 
 7. **As a student, why am I getting the warning ‘The quiz is not properly configured. Please contact the site administrator.’**
 
@@ -40,20 +38,20 @@
 
 8. **Where can I report an issue regarding this plugin?**
 
-   Please raise your issue on: `https://github.com/taketwotech/moodle-quizaccess_quizproctoring/issues`.
+   Please raise your issue on [GitHub Issues](https://github.com/taketwotech/moodle-quizaccess_quizproctoring/issues).
 
 9. **Why am I unable to use this plugin on localhost?**
 
    Due to security reasons, cameras work only on HTTPS.
-   You can go through the link: steps to allow the camera on the localhost.
+   You can go through the link: [Steps to allow the camera on the local host](https://stackoverflow.com/questions/16835421/how-to-allow-chrome-to-access-my-camera-on-localhost).
 
 10. **How to fix this error on a Moodle site hosted on Windows?**
 
     ```
-    Error executing "DetectFaces" on "https://rekognition.us-east-1.amazonaws.com"; AWS HTTP error: cURL error 60: SSL certificate problem: unable to get local issuer certificate
+    Error executing "DetectFaces" on "(https://rekognition.us-east-1.amazonaws.com)"; AWS HTTP error: cURL error 60: SSL certificate problem: unable to get local issuer certificate
     ```
 
-    - Download and extract `cacert.pem` following the instructions at `https://curl.se/docs/caextract.html`.
+    - Download and extract `cacert.pem` following the instructions at [curl CA extract](https://curl.se/docs/caextract.html).
     - Save it on your filesystem (e.g., XAMPP users might use `C:\xampp\php\extras\ssl\cacert.pem`).
     - In your `php.ini`, put this file location in the `[curl]` section (and optionally in the `[openssl]` section):
 
