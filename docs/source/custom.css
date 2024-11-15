@@ -1,18 +1,4 @@
-<style>
-  /* Main heading (H1) */
-  .rst-content h1 {
-    color: #2980b9;
-  }
-
-  /* Subheading (H2) */
-  .rst-content h2 {
-    color: #27ae60;
-  }
-
-  /* Subheading (H3) */
-  .rst-content h3 {
-    color: #d35400;
-  }
-
-  /* You can continue for h4, h5, h6 if needed */
-</style>
+/* custom.css */
+h1, h2, h3 {
+    color: #FF6347; /* This changes the color to Tomato */
+}
