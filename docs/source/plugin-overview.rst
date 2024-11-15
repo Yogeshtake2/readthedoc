@@ -45,6 +45,7 @@ Proctoring Report:
 Interface for Reviewing Captured Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Admins and Teachers can review all captured images and activity logs for each proctored quiz attempt within the Proctoring Report interface. This includes images flagged for warnings and any other captured data, allowing instructors to assess quiz integrity thoroughly.
+
 .. image:: images/image9.png
 
 Data Storage Options
@@ -55,6 +56,7 @@ Admins and Teachers can select whether to store all images or only those trigger
 Manual Deletion Options
 ^^^^^^^^^^^^^^^^^^^^^
 Within the report interface, users can delete captured images manually, with a checkbox for permanent deletion (irreversible) or standard deletion (images stored until the next scheduled hard delete).
+
 .. image:: images/image18.png
 
 Automated Hard Delete
