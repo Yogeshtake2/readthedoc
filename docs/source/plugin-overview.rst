@@ -40,6 +40,7 @@ Instructors can set the number of warnings issued to students for suspicious act
 
 Proctoring Report:
 ----------------
+.. image:: images/image3.png
 
 Interface for Reviewing Captured Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
