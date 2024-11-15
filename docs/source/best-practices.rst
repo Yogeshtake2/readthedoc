@@ -1,4 +1,4 @@
-Best Practices for Users
+9.Best Practices for Users
 =================
 
 To maximize the effectiveness and integrity of the Moodle Proctoring plugin, users should adhere to the following best practices:
