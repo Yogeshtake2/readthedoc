@@ -11,6 +11,8 @@ Step 1: Access Role Definitions
    
    * Only Moodle administrators have the ability to change permissions.
 
+.. image:: images/image11.png
+
 2. Navigate to Site Administration
    
    * On the Moodle dashboard, click on **Site administration** from the menu.
@@ -69,7 +71,4 @@ Once permissions are set for a role, you can assign the role to users within a c
    
    * From the drop-down menu next to the user's name, select the appropriate role
    * Click **Enroll Users** to assign the role
-   * Available roles include:
-        * Teacher
-        * Student
-        * Any custom role you've created
+  
