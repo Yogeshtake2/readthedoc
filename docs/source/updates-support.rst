@@ -1,4 +1,4 @@
-Updates and Support
+8.Updates and Support
 ===================
 
 Updates: For the latest features, improvements, and security updates, we recommend checking our plugin page regularly.
