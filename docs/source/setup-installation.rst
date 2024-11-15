@@ -44,8 +44,8 @@ After the plugin is installed, activate it by going to ``Site administration`` -
    Enable this option to view captured images on the Review Attempts page of the quiz.
 
 4. **Enable Proctoring for Quizzes:**  
-   - Go to the ``Edit Settings`` of the quiz you want to proctor.
-   - In the ``Extra restrictions on attempts`` section, select ``Yes`` to enable proctoring.
-   - Set up the desired time interval and warnings threshold.
+     - Go to the ``Edit Settings`` of the quiz you want to proctor.
+     - In the ``Extra restrictions on attempts`` section, select ``Yes`` to enable proctoring.
+     - Set up the desired time interval and warnings threshold.
 
 .. image:: images/image10.png
