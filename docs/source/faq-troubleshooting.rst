@@ -2,7 +2,7 @@
 =========================
 
 1. Where can I get the Take2 Proctoring API key and Secret key?
-------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    * Please contact us at - ms@taketwotechnologies.com
 
 2. I do not have an AWS account, can I access this plugin?
