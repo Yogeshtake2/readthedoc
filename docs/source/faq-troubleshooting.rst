@@ -1,8 +1,6 @@
 7.FAQs And Troubleshooting
 ====================================
 
-FAQs And Troubleshooting
-=======================
 
 1. **Where can I get the Take2 Proctoring API key and Secret key?**
 
