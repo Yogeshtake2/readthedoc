@@ -86,7 +86,4 @@ FAQs And Troubleshooting
 
     No, Moodle Proctoring does not store any data on our servers. All image data, including proctoring images and other relevant information, is stored locally on your own server. 
     The plugin ensures that data remains within your infrastructure, and we do not have access to or store any of your data.
-14. **Is any data stored by Moodle Proctoring?**
 
-    No, Moodle Proctoring does not store any data on our servers. All image data, including proctoring images and other relevant information, is stored locally on your own server. 
-    The plugin ensures that data remains within your infrastructure, and we do not have access to or store any of your data.
