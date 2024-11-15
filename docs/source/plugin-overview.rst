@@ -13,7 +13,7 @@ Provides proctoring functionalities for online quizzes in Moodle, including:
 * Identity verification against captured images
 * Warning alerts for potential cheating attempts
 
-Features
+Features:
 --------
 
 Real-time Human Proctoring
@@ -38,7 +38,7 @@ Instructors can set the number of warnings issued to students for suspicious act
 * Face covered or obscured
 * Two faces detected in the camera frame
 
-Proctoring Report
+Proctoring Report:
 ----------------
 
 Interface for Reviewing Captured Data
@@ -61,7 +61,7 @@ Permission Management
 ^^^^^^^^^^^^^^^^^^
 Admins can restrict report access permissions, allowing only selected users (typically Teachers and Admins) to view and manage proctoring data in the report.
 
-Target Audience
+Target Audience:
 -------------
 
 Administrators
