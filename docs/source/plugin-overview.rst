@@ -1,11 +1,11 @@
 1. Plugin Overview
 ================
 
-Name
+Name:
 ----
 Moodle Proctoring plugin
 
-Purpose
+Purpose:
 -------
 Provides proctoring functionalities for online quizzes in Moodle, including:
 
