@@ -7,7 +7,7 @@ copyright = '2025, Take2 Technologies'
 author = 'Yogesh Sharma'
 
 release = '4.2.9'
-version = '1.0'
+version = '4.2.9'
 
 # -- General configuration
 
