@@ -25,6 +25,8 @@ For Instructors
    
    In the quiz settings, find the "Extra restrictions on attempts" section. Here, you can toggle the proctoring option to "Yes." You will also set capture image intervals and define warning thresholds.
 
+.. image:: images/image20.png
+
 3. **Set Capture Intervals**
    
    Specify how often the plugin should capture images of the student during the quiz. This setting is essential for monitoring student activity.
@@ -50,6 +52,8 @@ For Students
 3. **Initial Image Capture**
    
    After activating the webcam, students will be required to capture an initial image of themselves. If the image is clear and properly framed, they will be allowed to begin the quiz attempt.
+
+.. image:: images/image7.png
 
 4. **Taking the Quiz**
    
