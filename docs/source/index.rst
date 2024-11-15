@@ -14,3 +14,11 @@ Hello
 
    plugin-overview
    system-requirements
+   setup-installation
+   permissions
+   user-experience
+   data-protection
+   faq-troubleshooting
+   updates-support
+   best-practices
+   conclusion
