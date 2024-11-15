@@ -41,14 +41,14 @@
 
 10. How to fix this error on a moodle site hosted on Windows?
 -------------------------------------------------------
-   .. code-block:: bash
+    .. code-block:: bash
 
         Error executing "DetectFaces" on "https://rekognition.us-east-1.amazonaws.com"; 
         AWS HTTP error: cURL error 60: SSL certificate problem: unable to get local issuer certificate
 
-    * Download and extract ``cacert.pem`` following the instructions at `curl CA extract <https://curl.se/docs/caextract.html>`_.
-    * Save it on your filesystem (e.g., XAMPP users might use ``C:\xampp\php\extras\ssl\cacert.pem``).
-    * In your ``php.ini``, put this file location in the ``[curl]`` section (and optionally in the ``[openssl]`` section):
+    - Download and extract ``cacert.pem`` following the instructions at `curl CA extract <https://curl.se/docs/caextract.html>`_.
+    - Save it on your filesystem (e.g., XAMPP users might use ``C:\xampp\php\extras\ssl\cacert.pem``).
+    - In your ``php.ini``, put this file location in the ``[curl]`` section (and optionally in the ``[openssl]`` section):
 
     .. code-block:: ini
 
@@ -58,7 +58,7 @@
         [openssl]
         openssl.cafile = "C:\xampp\php\extras\ssl\cacert.pem"
 
-    * Restart your webserver (e.g., Apache) and PHP-FPM server if applicable.
+    - Restart your webserver (e.g., Apache) and PHP-FPM server if applicable.
 
 11. Why am I unable to see Proctoring Images and Proctoring Identity Buttons for any user?
 ------------------------------------------------------------------------------------
