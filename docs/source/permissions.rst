@@ -5,7 +5,8 @@ In Moodle, administrators can assign or modify permissions for different roles (
 
 Step 1: Access Role Definitions
 -------------------------------
-^^^ Log in as an Administrator  
+Log in as an Administrator
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 Only Moodle administrators have the ability to change permissions.
 
 ^^^ Navigate to Site Administration  
