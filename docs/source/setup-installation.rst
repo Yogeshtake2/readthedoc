@@ -17,9 +17,9 @@ Download the Moodle Proctoring plugin from the Moodle Plugin Directory. You can 
 .. image:: images/image8.png
 
 **Upload the Plugin**  
-1. Log in to your Moodle site as an administrator.
-2. Go to ``Site administration`` -> ``Plugins`` -> ``Install plugins``.
-3. Upload the downloaded plugin file (usually a `.zip` file).
+  - Log in to your Moodle site as an administrator.
+  - Go to ``Site administration`` -> ``Plugins`` -> ``Install plugins``.
+  - Upload the downloaded plugin file (usually a `.zip` file).
 
 .. image:: images/image12.png
 .. image:: images/image6.png
