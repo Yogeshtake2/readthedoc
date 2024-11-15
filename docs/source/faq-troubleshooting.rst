@@ -16,15 +16,15 @@
 
 4. Where can I get the AWS API key and Secret key?
 -----------------------------------------------
-   * Please refer to the 'Usage Accessibility' section in the Plugin Documentation to generate AWS keys from your AWS account.
+   * Please refer to the 'Usage Accessibility' section in the `Plugin Documentation <https://taketwotechnologies.com/proctoring-quiz-access-rule/>`_ to generate AWS keys from your AWS account.
 
 5. How can I add the AWS API key and Secret Key in Moodle™?
 -------------------------------------------------------
-   * Go through the 'Proctoring plugin configuration' section in the Plugin Documentation.
+   * Go through the 'Proctoring plugin configuration' section in the `Plugin Documentation <https://taketwotechnologies.com/proctoring-quiz-access-rule/>`_.
 
 6. As an admin, why am I getting the warning 'Please complete AWS configuration to continue with the quiz?'
 ---------------------------------------------------------------------------------------------------
-   * Check whether the 'AWS access and Secret keys' are set up in the 'Moodle Proctoring'. Refer to the 'Proctoring plugin configuration' section in the Plugin Documentation.
+   * Check whether the 'AWS access and Secret keys' are set up in the 'Moodle Proctoring'. Refer to the 'Proctoring plugin configuration' section in the `Plugin Documentation <https://taketwotechnologies.com/proctoring-quiz-access-rule/>`_.
 
 7. As a student, Why am I getting the warning 'The quiz is not properly configured. Please contact the site administrator.'
 -----------------------------------------------------------------------------------------------------------------
@@ -37,18 +37,34 @@
 9. Why am I unable to use this plugin on localhost?
 ----------------------------------------------
    * Due to security reasons, cameras work only on https. 
-   * You can go through the link: steps to allow the camera on the local host. 
+   * You can go through the link:  `Steps to allow the camera on the local host <https://stackoverflow.com/questions/16835421/how-to-allow-chrome-to-access-my-camera-on-localhost>`_. 
 
 10. How to fix this error on a moodle site hosted on Windows?
 -------------------------------------------------------
-*Error executing "DetectFaces" on "https://rekognition.us-east-1.amazonaws.com"; AWS HTTP error: cURL error 60: SSL certificate problem: unable to get local issuer certificate*
+   .. code-block:: bash
 
-   * *Download and extract cacert.pem following the instructions at https://curl.se/docs/caextract.html* Save it on your filesystem somewhere (for example, XAMPP users might use C:\xampp\php\extras\ssl\cacert.pem) In your php.ini, put this file location in the [curl] section (putting it in the [openssl] section is also a good idea): [curl] curl.cainfo = "C:\xampp\php\extras\ssl\cacert.pem" [openssl] openssl.cafile = "C:\xampp\php\extras\ssl\cacert.pem" Restart your web server (e.g. Apache) and PHP FPM server if applicable
+        Error executing "DetectFaces" on "https://rekognition.us-east-1.amazonaws.com"; 
+        AWS HTTP error: cURL error 60: SSL certificate problem: unable to get local issuer certificate
+
+    * Download and extract ``cacert.pem`` following the instructions at `curl CA extract <https://curl.se/docs/caextract.html>`_.
+    * Save it on your filesystem (e.g., XAMPP users might use ``C:\xampp\php\extras\ssl\cacert.pem``).
+    * In your ``php.ini``, put this file location in the ``[curl]`` section (and optionally in the ``[openssl]`` section):
+
+    .. code-block:: ini
+
+        [curl]
+        curl.cainfo = "C:\xampp\php\extras\ssl\cacert.pem"
+
+        [openssl]
+        openssl.cafile = "C:\xampp\php\extras\ssl\cacert.pem"
+
+    * Restart your webserver (e.g., Apache) and PHP-FPM server if applicable.
 
 11. Why am I unable to see Proctoring Images and Proctoring Identity Buttons for any user?
 ------------------------------------------------------------------------------------
-   * Make sure you have Proctoring Images Show checkbox marked in Site administration -> Plugins -> Activity modules -> Quiz -> Moodle Proctoring.
-   * Make sure you are allowed the user role permission named View the Proctoring Images and Proctoring Identity buttons.
+  * Make sure you have the **Proctoring Images Show** checkbox marked in:
+      ``Site administration -> Plugins -> Activity modules -> Quiz -> Moodle Proctoring.``
+  * Ensure that the user role permission **View the Proctoring Images and Proctoring Identity buttons** is allowed.
 
 12. Why only the main image is showing in the Proctoring Images button?
 -----------------------------------------------------------------
