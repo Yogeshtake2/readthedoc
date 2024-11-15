@@ -35,5 +35,5 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Custome CSS
-html_static_path = ['_source']
+html_static_path = ['source']
 html_css_files = ['custom.css']
