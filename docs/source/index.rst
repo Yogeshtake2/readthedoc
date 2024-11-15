@@ -1,6 +1,7 @@
 Moodle Proctoring Plugin - User Guide
 ====================================
 This document provides a detailed overview of the Moodle Proctoring plugin, developed by Take2 Technologies. This plugin enhances online exam integrity by offering features like webcam monitoring, identity verification, and warning issuance for suspicious activity.
+
 .. note::
 
    This project is under active development.
