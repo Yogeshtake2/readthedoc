@@ -1,4 +1,4 @@
-Plugin Overview
+1.Plugin Overview
 ===============
 
 Name: Moodle Proctoring plugin
