@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Moodle Proctoring Plugin - User Guide'
+copyright = '2025, Take2 Technologies'
+author = 'Yogesh Sharma'
 
-release = '0.1'
-version = '0.1.0'
+release = '4.2.9'
+version = '1.0'
 
 # -- General configuration
 
