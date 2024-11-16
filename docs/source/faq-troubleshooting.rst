@@ -22,11 +22,11 @@
 -------------------------------------------------------
    * Go through the 'Proctoring plugin configuration' section in the `Plugin Documentation <https://taketwotechnologies.com/proctoring-quiz-access-rule/>`_.
 
-6. As an admin, why am I getting the warning 'Please complete AWS configuration to continue with the quiz?'
+6. As an admin, why am I getting the warning 'Please complete AWS configuration to continue with the quiz?
 ---------------------------------------------------------------------------------------------------
    * Check whether the 'AWS access and Secret keys' are set up in the 'Moodle Proctoring'. Refer to the 'Proctoring plugin configuration' section in the `Plugin Documentation <https://taketwotechnologies.com/proctoring-quiz-access-rule/>`_.
 
-7. As a student, Why am I getting the warning 'The quiz is not properly configured. Please contact the site administrator.'
+7. As a student, Why am I getting the warning 'The quiz is not properly configured. Please contact the site administrator.
 -----------------------------------------------------------------------------------------------------------------
    * For a properly configured quiz, the plugin requires a mandatory 'AWS or Take2 API key and Secret key' to be set up in the 'Moodle Proctoring.'
 
