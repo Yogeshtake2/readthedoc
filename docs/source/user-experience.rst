@@ -65,4 +65,4 @@ For Students
 
 6. **Post-Quiz Review**
 
-After completing the quiz, students will not have access to their captured images or warnings, as these are reserved for instructors. However, they can check their quiz results and feedback in the usual manner.
+   After completing the quiz, students will not have access to their captured images or warnings, as these are reserved for instructors. However, they can check their quiz results and feedback in the usual manner.
