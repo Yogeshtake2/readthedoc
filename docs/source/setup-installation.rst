@@ -1,12 +1,12 @@
 3. Setup and Installation
 =========================
 
-Pre-requisites:
+Pre-requisites
 ---------------
 - A Moodle platform (version 4.0 or later)
 - A Moodle admin account with appropriate permissions
 
-Steps:
+Steps
 ------
 **Install Moodle**  
 If you haven't already, install Moodle on your server or hosting platform. Follow the official `Moodle installation instructions <https://docs.moodle.org/405/en/Installing_Moodle>`_.
