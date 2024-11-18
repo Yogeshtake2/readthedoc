@@ -63,6 +63,6 @@ For Students
    
    Students should be aware that their activity is being monitored, and any suspicious behavior may trigger warnings.
 
-Post-Quiz Review
---------------
+6. **Post-Quiz Review**
+
 After completing the quiz, students will not have access to their captured images or warnings, as these are reserved for instructors. However, they can check their quiz results and feedback in the usual manner.
