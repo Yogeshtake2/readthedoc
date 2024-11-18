@@ -51,6 +51,7 @@ Admins and Teachers can review all captured images and activity logs for each pr
 Data Storage Options
 ^^^^^^^^^^^^^^^^^^
 Admins and Teachers can select whether to store all images or only those triggered by warnings on a per-quiz basis.
+
 .. image:: images/image10.png
 
 Manual Deletion Options
