@@ -33,7 +33,9 @@ For Instructors
 
 4. **Review Captured Data**
    
-   After the quiz is completed, instructors can review the captured images and any warnings issued. This is done by navigating to the quiz results page and selecting the "Review attempts" option. Here, instructors can see all images, including those that triggered warnings, allowing for a thorough assessment of the quiz's integrity.
+   After the quiz is completed, instructors can review the captured images and any issued warnings by accessing the "View Proctoring Report" button on the quiz page. This allows them to view all images, including those that triggered warnings,, allowing for a thorough assessment of the quiz's integrity.
+
+.. image:: images/image19.png
 
 5. **Live Monitoring**
    
