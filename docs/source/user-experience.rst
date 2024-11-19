@@ -39,7 +39,7 @@ For Instructors
 
 5. **Live Monitoring**
    
-   During the quiz, instructors can also view students live. This is accessible from the quiz monitoring interface, allowing for real-time oversight.
+   During the quiz, instructors can also view students live. This is accessible from the "View Online Students" button on the quiz page, allowing for real-time oversight.
 
 For Students
 ^^^^^^^^^^^
