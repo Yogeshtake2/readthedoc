@@ -10,7 +10,7 @@ This document provides a detailed overview of the Moodle Proctoring plugin, deve
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table Of Content
 
    plugin-overview
    system-requirements
