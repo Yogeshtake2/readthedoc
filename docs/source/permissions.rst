@@ -70,7 +70,7 @@ Once permissions are set for a role, you can assign the role to users within a c
    * Click the **Enroll Users** button
    * In the enrollment pop-up, search for the user(s) you want to assign the role to.
 
-.. image:: images/image1.png
+.. image:: images/image2.png
 
 4. Assign a Role
    
