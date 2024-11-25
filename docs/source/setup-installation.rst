@@ -31,7 +31,7 @@ Download the Moodle Proctoring plugin from the Moodle Plugin Directory. You can 
 **Activate the Plugin**  
 After the plugin is installed, activate it by going to ``Site administration`` -> ``Plugins`` -> ``Activity modules`` -> ``Quiz`` -> ``Proctoring quiz access rule``.
 
-**Configure the Plugin**
+Configure the Plugin
 -------------------------
 1. **External Server Token and Secret Token (for Take2 Proctoring):**  
    If you're using the Take2 Proctoring API for identity verification, enter the provided token and secret key in the corresponding fields.
